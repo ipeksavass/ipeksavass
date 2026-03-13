@@ -1,16 +1,38 @@
-## Hi there 👋
+# Merhaba, ben İpek Savaş! 👋
 
-<!--
-**ipeksavass/ipeksavass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Bilgisayar Mühendisliği öğrencisiyim.  
+- 📱 Şu an Android üzerine çalışıyor, **Kotlin** öğreniyorum.  
+- 💻 Daha önce kullandığım teknolojiler:  
+  - Diller & Çatılar: HTML, CSS, Java, C#, Java Spring Boot, Kotlin
+  - Veritabanı: SQL, SQLite, PostgreSQL  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## İletişim
+
+<table>
+  <tr>
+    <td>
+      <a href="mailto:ipekk_savass@outlook.com">
+        <img alt="email" src="https://img.shields.io/badge/email-click%20to%20send-0A66C2?logo=gmail&logoColor=white&style=flat-square">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/ipek-savaş">
+        <img alt="linkedin" src="https://img.shields.io/badge/linkedin-ipek%20savaş-0A66C2?logo=linkedin&logoColor=white&style=flat-square">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Odak Alanlarım
+- Android Studio, Kotlin, Jetpack Compose (öğrenme sürecinde)
+- Temiz kod ve SOLID prensipleri
+- Temel tasarım kalıpları (MVC, MVVM)
+
+---
+
+Uğradığın için teşekkürler! 🙌
+
