@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <b>Modern Android ekosistemi odağında test edilebilir ve ölçeklenebilir native mobil uygulamalar geliştiren, sürekli öğrenmeye tutkulu bir bilgisayar mühendisiyim.</b>
+  <b>Modern Android ekosistemi odağında test edilebilir ve ölçeklenebilir native mobil uygulamalar geliştiren, mühendislik prensiplerini merkeze alan bir Android Geliştiriciyim.</b>
 </p>
 
 <!-- İletişim / Sosyal Medya Rozetleri -->
@@ -29,10 +29,10 @@
 ## 👩🏻‍💻 Hakkımda
 
 * 🎓 Karabük Üniversitesi Bilgisayar Mühendisliği bölümünden **3.58 AGNO** ile mezun oldum.
-* 📱 Tüm odak noktam ve kariyer hedefim **Native Android Geliştirme**.
-* 🌱 Güncel olarak modern mimariler; **Clean Architecture, MVVM, Dagger Hilt** ve **Kotlin Coroutines/Flow** üzerinde kendimi geliştirmeye, yeni teknolojileri projelerime entegre etmeye devam ediyorum.
+* 📱 Ana odağım **Native Android Geliştirme** olmakla birlikte; gelecekte yapay zekâ tabanlı mobil çözümler üretmeyi ve iOS/Swift gibi farklı teknolojileri de süreç içinde yetkinliklerime katmayı hedefliyorum.
+* 🌱 Güncel olarak **Clean Architecture** ve **MVVM** gibi modern mimarilerin yanı sıra; **Dagger Hilt, Kotlin Coroutines** ve **Flow** gibi sektör standardı teknolojiler üzerinde kendimi geliştirmeye, yeni yapıları projelerime entegre etmeye devam ediyorum.
 * 💡 Sadece kod yazmayı değil; **OOP** ve **SOLID** prensiplerini benimseyerek sürdürülebilir mühendislik çözümleri üretmeyi hedefliyorum.
-* 🌍 Teknik dokümantasyonları ve sektörel gelişmeleri takip edebilecek seviyede İngilizce (B2) biliyorum.
+* 🌍 Teknik dokümantasyonları ve sektörel gelişmeleri takip edebilecek seviyede **İngilizce (B1)** biliyorum.
 
 <br>
 
